@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Backend de la mejor app de barbería hecho en
+[Nest](https://github.com/nestjs/nest).
 
 ## Installation
 
